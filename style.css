@@ -105,20 +105,20 @@ flex-grow:1
             color:white;
         }
         .case1{flex-grow:1;
-            background-color:rgb(61,61,184) ;
+            background-color:red ;
             padding-top:25px;
             padding-right:60px;
             padding-left:25px;
             
         }
         .case2{flex-grow:1;
-            background-color:rgb(7,7,71) ;
+            background-color:pink ;
             padding-top:25px;
             padding-right:60px;
             padding-left:25px;
         }
         .case3{flex-grow:1;
-            background-color:rgb(61,61,184) ;
+            background-color:red ;
             padding-top:25px;
             padding-right:60px;
             padding-left:25px;
